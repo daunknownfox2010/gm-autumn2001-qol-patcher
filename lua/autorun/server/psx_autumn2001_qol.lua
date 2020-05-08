@@ -1,9 +1,7 @@
 --[[
 	psx_autumn2001 QoL map patcher
 	Script by D4 the (Choco) Fox
-	Original map by Cool
-	
-	All rights reserved.
+	Original map by Cool, all rights reserved.
 ]]--
 
 -- Prevent this script from running when it isn't psx_autumn2001
